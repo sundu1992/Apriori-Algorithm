@@ -1,0 +1,20 @@
+501	instrument case
+502	instrument book
+503	instrument book case
+504	instrument strings
+505 instrument sticks
+506	instrument amplifier
+507	instrument dvd
+508	amplifier recorder mic
+509	recorder mic
+510	instrument tuner
+511	instrument	amplifier	recorder	mic
+512	instrument	case mic
+513	instrument	mic dvd
+514	book dvd
+515	strings tuner
+516	recorder	dvd	mic
+517	instrument	amplifier	mic
+518	recorder mic dvd
+519	instrument strings case
+520	instrument sticks case

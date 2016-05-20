@@ -1,0 +1,20 @@
+301	bed	textile
+302	bed	table	textile
+303	bed	light
+304	bed	light	mirror
+305	bed	mattress
+306	bed	mattress	textile
+307	sofa	textile
+308 bed table	sofa
+309	bed	mattress	table	sofa
+310	sink	faucet
+311	sink faucet	light
+312 sink faucet light bath_tub
+313	sink	faucet	bath_tub
+314	light	mirror
+315	table	light
+316	mattress textile
+317	bath_tub faucet
+318	sofa	textile	light
+319	table textile
+320	table textile light

@@ -1,0 +1,20 @@
+201	cycle	helmet
+202	cycle	helmet	car_rack
+203	cycle	car_rack
+204	cycle 	helmet	seat
+205	cycle	helmet	seat	car_rack
+206	cycle	pump	helmet
+207	cycle	pump	helmet	seat
+208	cycle	pump	helmet	seat	car_rack
+209	wheel	mudguard
+210	wheel mudguard	tyre
+211	cycle	pump
+212	chain	wheel
+213	chain	mudguard
+214	chain	wheel	mudguard
+215	chain	wheel	mudguard	tyre
+216	cycle	seat
+217	seat	pedals
+218	cycle	mudguard	helmet
+219	helmet	pump
+220	tyre	wheel
